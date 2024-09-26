@@ -44,4 +44,5 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 Once the contract is deployed, you can interact with it by calling the mint, burn function or check balance. Click on the "MyToken" contract in the left-hand sidebar, and then click on the "mint" or "burn" function. Finally, click on the "transact" button to execute the function and retrieve the token you burned or minted.
 
 Authors
+
 Aditya
